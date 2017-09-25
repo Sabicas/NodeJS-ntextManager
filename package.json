@@ -1,0 +1,11 @@
+{
+  "name": "ntext",
+  "version": "1.0.0",
+  "description": "ntext manager",
+  "main": "ntextManager.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
